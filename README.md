@@ -3,7 +3,7 @@ Eye Movement Simulation
 
 ==================================================================
 
-Description: This program will show pacman animation that moves horizontally accross the page. It reverse direction when it hits the edge of the window.
+Description: This program will show the eye movement animation. It eye will follow and move to the direction of the mouse hover.
 
 ==================================================================
 
