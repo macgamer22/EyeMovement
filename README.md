@@ -15,7 +15,7 @@ Download and extract the file. Run index.html, preferrably chrome browser.
 
 Future Improvements:
 
-Add closing of eyes when mouse is not moved for a couple seconds and quickly open as soon as mouse movement is detected.
+Add closing of eyes when mouse is not moved for a certain time and quickly open as soon as mouse movement is detected.
 
 ==================================================================
 
