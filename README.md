@@ -1,23 +1,23 @@
 # EyeMovement
 Eye Movement Simulation
 
-==================================================================
+====================
 
 Description: This program will show the eye movement animation. The eyes will follow and move to the direction of the mouse hover.
 
-==================================================================
+====================
 
 How to RUN Instruction:
 
 Download and extract the file. Run index.html, preferrably chrome browser.
 
-==================================================================
+====================
 
 Future Improvements:
 
 Add closing of eyes when mouse is not moved for a certain time and quickly open as soon as mouse movement is detected.
 
-==================================================================
+====================
 
 LICENSE:
 
